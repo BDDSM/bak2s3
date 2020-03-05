@@ -8,4 +8,4 @@
 
 ## Использование скрипта
 
-Описание  [[Linux|linux/readme.md]], [[Windows|win/readme.md]]
+Описание  [Linux](linux/readme.md), [Windows](win/readme.md)
